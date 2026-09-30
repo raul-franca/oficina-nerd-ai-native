@@ -1,0 +1,16 @@
+{
+  "provider": {
+    "centopeia": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Centopeia",
+      "options": {
+        "baseURL": "https://centopeia.cesar.org.br/v1"
+      },
+      "models": {
+        "Qwen-27B-latest": {
+          "name": "Centopeia Qwen-27B-latest"
+        }
+      }
+    }
+  }
+}
