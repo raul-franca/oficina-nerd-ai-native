@@ -1,0 +1,26 @@
+TRANSCRIÇÃO BRUTA – ENTREVISTA 4
+Participante: Cláudia R., analista de faturamento
+Empresa cliente: CasaSaúde Home Care (Belo Horizonte) – 320 pacientes
+Data: 05/09/2026 | Duração: 34 min | Formato: videochamada
+Entrevistador: Caio (Produto, Lume Care)
+
+[00:00:08] Caio: Cláudia, me conta o que você faz.
+[00:00:11] Cláudia: Eu fecho as contas pras operadoras. Umas mil e duzentas contas por mês. Pego tudo que foi feito no mês, confiro e mando no padrão TISS.
+[00:00:25] Caio: E onde aparece a glosa?
+[00:00:28] Cláudia: Uns trinta, quarenta dias depois de mandar, a operadora devolve o demonstrativo com o que ela não vai pagar. Aí eu fico sabendo.
+[00:00:42] Caio: Quais os motivos mais comuns?
+[00:00:45] Cláudia: Evolução incompleta, disparado. Depois falta de assinatura do paciente ou responsável. Depois horário da visita sem comprovação, que é quando não teve check-in. Tem também autorização vencida, que é erro nosso do administrativo, e código errado, que é raro.
+[00:01:10] Caio: Se você tivesse que chutar, quanto disso nasce no atendimento?
+[00:01:13] Cláudia: Não é chute: noventa por cento do que glosa nasceu lá na casa do paciente. Eu não consigo consertar nada aqui do escritório. Quando eu descubro, faz um mês. Como é que eu vou pegar assinatura de um mês atrás?
+[00:01:35] Caio: E o recurso de glosa?
+[00:01:37] Cláudia: A gente recorre. Recupera uns trinta por cento, e demora sessenta, noventa dias. É muito trabalho pra pouco retorno.
+[00:01:50] Caio: O sistema ajuda em quê?
+[00:01:52] Cláudia: Gera o arquivo TISS, isso é bom. Mas ele deixa eu mandar conta incompleta. Não trava, não avisa, nada. Se ele me avisasse antes, "olha, essas vinte visitas estão sem assinatura", eu ia atrás na mesma semana.
+[00:02:15] Caio: Como você confere hoje?
+[00:02:17] Cláudia: Exporto pro Excel e faço uns filtros. Tenho uma planilha minha com fórmula. Levo três dias todo fim de mês.
+[00:02:30] Caio: Quem você acha que é o culpado da glosa?
+[00:02:33] Cláudia: [pausa] Sinceramente? A diretoria culpa o sistema. As técnicas acham que é problema do escritório. E eu acho que ninguém enxerga o caminho inteiro. A técnica não sabe que a assinatura dela vira dinheiro.
+[00:02:55] Caio: E IA, você vê uso?
+[00:02:57] Cláudia: Se a IA olhasse a evolução e dissesse "falta isso aqui", antes de fechar a visita, aí sim. Mas eu não sei se precisa de IA pra isso. Uma regra já resolveria muita coisa.
+[00:03:15] [trecho sobre tabela de preços de operadoras – omitido]
+[00:33:40] Caio: Obrigado, Cláudia.

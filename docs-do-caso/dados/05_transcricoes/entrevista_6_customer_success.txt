@@ -1,0 +1,25 @@
+TRANSCRIÇÃO BRUTA – ENTREVISTA 6 (INTERNA)
+Participante: Diego F., Customer Success Manager, Lume Care
+Carteira: 45 clientes
+Data: 08/09/2026 | Duração: 29 min | Formato: presencial, sala de reunião
+Entrevistadora: Lara (Produto, Lume Care)
+
+[00:00:06] Lara: Diego, o que você tem visto nos cancelamentos?
+[00:00:09] Diego: Dos nove clientes que saíram da minha carteira no semestre, eu conversei com todos. Seis falaram de glosa e faturamento. Dois falaram de implantação que demorou demais. Um foi preço.
+[00:00:28] Lara: E quantos foram pra CuraMais?
+[00:00:30] Diego: Dois. Mas nenhum dos dois citou IA como motivo principal. Eles citaram a glosa, e a CuraMais prometeu que resolveria. A IA foi o argumento de venda deles.
+[00:00:48] Lara: O comercial diz que perde negócio por falta de IA.
+[00:00:51] Diego: O comercial registra o que o prospect fala na última reunião. Eu vejo o que o cliente sente depois de seis meses. São coisas diferentes.
+[00:01:05] Lara: Você tem dados de uso por cliente?
+[00:01:08] Diego: Eu puxei na mão, tá na planilha da carteira. Uma coisa que me chamou atenção: cliente com check-in no app acima de setenta por cento quase não sai. Os que saíram estavam quase todos abaixo de cinquenta.
+[00:01:28] Lara: E como o CS é medido hoje?
+[00:01:30] Diego: [risos] Tickets fechados e tempo de resposta. Ninguém me mede por adoção. Então o time corre pra fechar ticket, não pra fazer o cliente usar melhor.
+[00:01:45] Lara: E os pedidos dos clientes, como chegam no roadmap?
+[00:01:48] Diego: Cliente grande liga pro CEO, vira prioridade. O Vida Plena pediu relatório customizado três vezes. Já entregamos onze customizações pra eles em dois anos. Cada uma deixa a implantação dos próximos mais lenta.
+[00:02:10] Lara: E a implantação?
+[00:02:12] Diego: Noventa e poucos dias em média. A meta era trinta. O gargalo é configurar escala, tabela de operadoras e treinar a equipe de campo. O treinamento de campo é o pior: técnica muda muito, e cada nova precisa aprender.
+[00:02:35] Lara: Se você fosse PM, por onde começaria?
+[00:02:38] Diego: Pelo campo. Tudo que dá errado lá em cima começa quando a técnica não consegue registrar a visita. Mas eu sou suspeito, eu vivo isso.
+[00:02:55] Lara: Algo mais?
+[00:02:57] Diego: Um alerta: tem cliente com grupo de WhatsApp trocando foto de ferida de paciente. Isso é dado sensível, LGPD. Se vazar, o problema é de todo mundo.
+[00:03:10] [fim da parte gravada]

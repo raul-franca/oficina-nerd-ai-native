@@ -1,0 +1,55 @@
+﻿cliente_id,nome_ficticio,porte,pacientes_ativos,regiao,meses_de_contrato,dias_de_implantacao,visitas_com_checkin_app_pct,evolucoes_completas_pct,taxa_glosa_pct,tickets_ultimo_mes,customizacoes_entregues,status,motivo_cancelamento_ou_risco
+C001,Grupo Vida Plena,G,900,Sudeste,38,120,44,51,9.2,275,11,Em risco,Ameaça de não renovar em nov/2026 (glosas)
+C002,Acolher Home Care,M,140,Nordeste,26,95,55,55,10.8,35,2,Ativo,
+C003,CasaSaúde Home Care,M,320,Sudeste,31,88,49,58,10.0,109,3,Em risco,
+C004,Cuidado Certo,P,57,Sudeste,45,134,52,55,10.0,16,1,Ativo,
+C005,Lar & Saúde,M,306,Sudeste,17,142,44,46,10.9,136,2,Ativo,
+C006,Viver em Casa,M,325,Sudeste,28,55,56,62,10.2,91,6,Ativo,
+C007,Enfermar,M,125,Sul,53,82,52,60,10.3,27,0,Ativo,
+C008,Home Vida,M,279,Sudeste,21,134,76,75,6.2,52,0,Ativo,
+C009,Bem Estar Domiciliar,M,202,Sudeste,53,144,52,59,11.5,42,0,Ativo,
+C010,Cuidar Sempre,P,61,Sul,29,127,47,50,10.8,23,1,Em risco,
+C011,Saúde no Lar,M,294,Sudeste,12,110,43,52,13.4,81,4,Em risco,
+C012,Aconchego Care,M,122,Sudeste,33,112,73,75,5.2,31,1,Ativo,
+C013,Mais Vida Home,M,226,Nordeste,11,82,48,53,12.7,102,3,Em risco,
+C014,Atenção Total,M,349,Centro-Oeste,23,126,76,71,5.7,61,6,Ativo,
+C015,NovaCasa Saúde,G,706,Sudeste,5,59,57,57,8.9,166,2,Ativo,
+C016,Cuida Bem,P,71,Sudeste,52,113,46,53,13.1,20,0,Em risco,
+C017,Raízes Home Care,M,192,Sudeste,46,128,66,70,7.8,36,2,Ativo,
+C018,Semear Saúde,P,26,Sudeste,8,135,52,52,9.2,5,0,Ativo,
+C019,Lar Feliz,M,338,Nordeste,50,118,53,60,11.4,60,4,Ativo,
+C020,Primeiro Cuidado,P,52,Sudeste,59,138,81,79,5.5,8,0,Ativo,
+C021,Essencial Home,M,145,Sudeste,38,102,65,63,8.0,41,0,Ativo,
+C022,Ponte Saúde,P,76,Sul,38,46,86,85,3.2,17,0,Ativo,
+C023,Abrigo Care,P,50,Sudeste,28,78,56,58,11.2,15,1,Ativo,
+C024,Vila Cuidar,M,339,Sudeste,17,52,41,50,11.4,129,6,Em risco,
+C025,Horizonte Home,G,660,Sudeste,15,53,81,81,4.8,192,0,Ativo,
+C026,Recanto Saúde,M,110,Sudeste,46,119,58,65,8.6,28,6,Ativo,
+C027,Casa Amiga,P,50,Nordeste,33,85,38,45,14.8,24,0,Em risco,
+C028,Sereno Care,P,41,Centro-Oeste,60,76,56,56,10.9,10,0,Ativo,
+C029,Pleno Cuidar,M,94,Sul,23,129,46,49,12.9,39,0,Em risco,
+C030,Zelo Home,P,38,Sul,58,78,54,62,11.3,6,1,Ativo,
+C031,Alento Saúde,P,42,Sudeste,12,126,48,55,11.5,14,0,Em risco,
+C032,Ninho Care,P,69,Sudeste,27,119,65,62,7.6,20,0,Ativo,
+C033,Farol Home Care,M,110,Sudeste,19,130,60,65,10.3,23,0,Ativo,
+C034,Rede Cuidar,M,211,Sudeste,55,148,64,60,9.0,42,0,Ativo,
+C035,Laço Saúde,G,536,Sudeste,48,58,40,51,12.1,234,3,Em risco,
+C036,Âncora Home,P,75,Sudeste,16,96,55,62,11.5,14,0,Ativo,
+C037,Mãos Dadas Care,M,259,Sudeste,20,67,40,43,12.7,107,1,Em risco,
+C038,Solar Saúde,M,149,Centro-Oeste,16,77,83,79,4.8,40,0,Ativo,
+C039,Bússola Home,M,190,Sudeste,46,87,80,80,6.0,37,2,Ativo,
+C040,Aurora Cuidados,P,51,Sul,39,61,64,67,8.0,13,0,Ativo,
+C041,Vértice Home,P,61,Nordeste,4,83,51,55,11.0,15,0,Ativo,
+C042,Colmeia Care,M,199,Nordeste,54,139,80,73,5.3,49,0,Ativo,
+C043,Oásis Saúde,P,77,Sudeste,55,70,39,42,14.5,30,0,Ativo,
+C044,Trilha Home,M,189,Sul,35,96,47,54,10.1,79,1,Ativo,
+C045,Jardim Cuidar,P,52,Sul,48,111,41,48,14.0,14,1,Em risco,
+C046,Porto Care,M,252,Centro-Oeste,43,149,41,51,12.9,115,6,Cancelado,Glosa/faturamento
+C047,Estrela Home,M,320,Sul,57,126,44,50,11.4,111,1,Cancelado,Glosa/faturamento
+C048,Sintonia Saúde,M,229,Sudeste,38,55,32,38,15.0,94,0,Cancelado,Glosa/faturamento – foi para CuraMais
+C049,Brisa Care,P,51,Nordeste,7,71,40,51,13.2,21,1,Cancelado,Glosa/faturamento
+C050,Cais Home Care,G,644,Sudeste,26,83,41,48,13.4,278,3,Cancelado,Glosa/faturamento – foi para CuraMais
+C051,Ipê Saúde,G,539,Sudeste,5,94,40,49,13.9,248,2,Cancelado,Glosa/faturamento
+C052,Girassol Care,G,601,Nordeste,6,167,48,57,10.4,182,0,Cancelado,Implantação longa
+C053,Lume Norte Care,P,54,Sul,8,145,36,39,13.8,26,1,Cancelado,Implantação longa
+C054,Travessia Home,P,66,Norte,6,141,71,75,6.1,10,0,Cancelado,Preço

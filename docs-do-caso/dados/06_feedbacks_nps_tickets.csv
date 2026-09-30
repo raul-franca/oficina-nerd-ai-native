@@ -1,0 +1,301 @@
+﻿id,data,canal,perfil,cliente,nota,comentario
+F001,2026-03-16,Loja de apps,Cuidador(a),Lar & Saúde,1,"Olha, podia copiar a evolução de ontem e só mudar o que mudou!!"
+F002,2026-03-18,Ticket de suporte,Técnico(a) de enfermagem,Mais Vida Home,,Como faço para ver o histórico do paciente?
+F003,2026-03-24,NPS gestor,Coordenador(a) de enfermagem,Cuidar Sempre,0,As famílias me ligam o dia todo perguntando se a técnica chegou
+F004,2026-03-26,Ticket de suporte,Coordenador(a) de enfermagem,CasaSaúde Home Care,,De novo: Como redefinir a senha de uma técnica?
+F005,2026-03-29,Ticket de suporte,Gestor(a) de operação,Mais Vida Home,,"Pessoal, tivemos reclamação na ouvidoria por visita que não aconteceu. Por favor, resolvam"
+F006,2026-03-29,Ticket de suporte,Coordenador(a) de enfermagem,Viver em Casa,,Urgente: Vocês vão ter IA igual à CuraMais?
+F007,2026-03-31,Ticket de suporte,Coordenador(a) de enfermagem,Grupo Vida Plena,,"Pessoal, como faço para trocar a técnica de uma visita?"
+F008,2026-04-01,Ticket de suporte,Diretor(a) financeiro(a),Mais Vida Home,,Cada técnica nova precisa de treinamento e não tem material simples!!
+F009,2026-04-05,NPS gestor,Coordenador(a) de enfermagem,Home Vida,7,As famílias me ligam o dia todo perguntando se a técnica chegou. Tá complicado
+F010,2026-04-05,Loja de apps,Cuidador(a),CasaSaúde Home Care,3,Bom dia. Troca de plantão não aparece no app. Tá complicado
+F011,2026-04-09,Ticket de suporte,Gestor(a) de operação,Saúde no Lar,,A glosa só aumenta e o sistema não avisa nada antes
+F012,2026-04-16,Loja de apps,Cuidador(a),Grupo Vida Plena,2,Perdi a evolução inteira quando o sinal caiu e também troca de plantão não aparece no app
+F013,2026-04-19,Ticket de suporte,Coordenador(a) de enfermagem,Acolher Home Care,,De novo: A filial nova levou 4 meses pra entrar
+F014,2026-04-20,NPS gestor,Diretor(a) financeiro(a),Grupo Vida Plena,5,De novo: Tivemos reclamação na ouvidoria por visita que não aconteceu. Tá complicado
+F015,2026-04-20,NPS gestor,Diretor(a) financeiro(a),Cuidado Certo,7,"Bom dia. O check-in por GPS falha dentro dos prédios. Por favor, resolvam"
+F016,2026-04-20,NPS gestor,Diretor(a) financeiro(a),Lar & Saúde,7,"Sinceramente, paciente ficou sem visita porque ninguém viu a falta. Assim fica difícil"
+F017,2026-04-21,NPS gestor,Coordenador(a) de enfermagem,Lar & Saúde,7,"Pessoal, equipe nova não consegue usar o app sozinha e também as famílias me ligam o dia todo perguntando se a técnica chegou. Assim fica difícil"
+F018,2026-04-22,NPS gestor,Coordenador(a) de enfermagem,Farol Home Care,2,Urgente: O check-in por GPS falha dentro dos prédios
+F019,2026-04-23,NPS gestor,Faturista,Mais Vida Home,8,De novo: Consigo ver o histórico do paciente fácil no desktop. Parabéns ao time
+F020,2026-04-29,NPS gestor,Diretor(a) financeiro(a),Farol Home Care,3,"Pessoal, o arquivo TISS sai certo, mas as contas saem incompletas!!"
+F021,2026-04-30,Ticket de suporte,Diretor(a) financeiro(a),Lar & Saúde,,"Descubro a glosa 30 dias depois, aí não dá pra corrigir. Assim fica difícil"
+F022,2026-05-01,NPS gestor,Coordenador(a) de enfermagem,Lar & Saúde,0,As famílias me ligam o dia todo perguntando se a técnica chegou
+F023,2026-05-04,NPS gestor,Faturista,Cuidar Sempre,4,"Olha, muitas visitas chegam sem assinatura no fechamento"
+F024,2026-05-04,Ticket de suporte,Faturista,Acolher Home Care,,Muitas visitas chegam sem assinatura no fechamento!!
+F025,2026-05-07,Ticket de suporte,Gestor(a) de operação,Mais Vida Home,,Queria saber o risco de glosa antes de fechar o mês. Tá complicado
+F026,2026-05-07,NPS gestor,Coordenador(a) de enfermagem,Lar & Saúde,5,Urgente: O sistema não mostra quem está disponível perto do paciente e também a implantação demorou muito mais do que o prometido!!
+F027,2026-05-08,NPS gestor,Faturista,Acolher Home Care,3,"Pessoal, muitas visitas chegam sem assinatura no fechamento"
+F028,2026-05-09,Ticket de suporte,Gestor(a) de operação,Grupo Vida Plena,,Bom dia. A implantação demorou muito mais do que o prometido
+F029,2026-05-10,NPS gestor,Coordenador(a) de enfermagem,Lar & Saúde,6,"Pessoal, as famílias me ligam o dia todo perguntando se a técnica chegou"
+F030,2026-05-12,NPS gestor,Coordenador(a) de enfermagem,Viver em Casa,3,De novo: As famílias me ligam o dia todo perguntando se a técnica chegou
+F031,2026-05-13,NPS gestor,Coordenador(a) de enfermagem,Mais Vida Home,0,De novo: Equipe nova não consegue usar o app sozinha. Isso atrapalha muito
+F032,2026-05-13,NPS família,Familiar,Cuidar Sempre,4,Fico sabendo tudo pelo WhatsApp da técnica e também meu pai nao consegue assinar e eu nao estou em casa
+F033,2026-05-13,Ticket de suporte,Gestor(a) de operação,Lar & Saúde,,"Pessoal, o check-in por GPS falha dentro dos prédios"
+F034,2026-05-17,NPS gestor,Coordenador(a) de enfermagem,Grupo Vida Plena,6,Quando alguém falta eu resolvo tudo no WhatsApp. Tá complicado
+F035,2026-05-17,NPS gestor,Gestor(a) de operação,Acolher Home Care,2,"Olha, o check-in por GPS falha dentro dos prédios. Isso atrapalha muito"
+F036,2026-05-18,Ticket de suporte,Coordenador(a) de enfermagem,Lar & Saúde,,"Olha, as famílias me ligam o dia todo perguntando se a técnica chegou e também refaço a escala na planilha todo dia"
+F037,2026-05-20,NPS família,Familiar,Mais Vida Home,0,Bom dia. Pedem pra eu assinar a semana toda de uma vez!!
+F038,2026-05-21,Ticket de suporte,Técnico(a) de enfermagem,Zelo Home,,"Pessoal, demoro 20 min só pra registrar. Assim fica difícil"
+F039,2026-05-22,NPS gestor,Gestor(a) de operação,Zelo Home,5,"Vi a demo do concorrente com IA, vocês têm algo parecido?"
+F040,2026-05-22,NPS gestor,Gestor(a) de operação,Farol Home Care,0,A equipe anota no papel porque o app não funciona sem sinal. Tá complicado
+F041,2026-05-22,NPS família,Familiar,Farol Home Care,0,De novo: Pedem pra eu assinar a semana toda de uma vez. Tá complicado
+F042,2026-05-23,Ticket de suporte,Técnico(a) de enfermagem,Viver em Casa,,"Pessoal, são muitas telas pra preencher, demora mais que o atendimento. Isso atrapalha muito"
+F043,2026-05-23,NPS gestor,Diretor(a) financeiro(a),Zelo Home,9,O arquivo TISS funciona bem. Obrigada
+F044,2026-05-24,NPS gestor,Coordenador(a) de enfermagem,Home Vida,7,"De novo: Refaço a escala na planilha todo dia. Por favor, resolvam"
+F045,2026-05-24,Loja de apps,Cuidador(a),Mais Vida Home,2,Urgente: Paciente tável e eu preencho tudo igual todo dia. Já reclamei antes
+F046,2026-05-24,NPS gestor,Faturista,Cuidado Certo,6,Urgente: Perdemos muito dinheiro com evolução incompleta e também muitas visitas chegam sem assinatura no fechamento!!
+F047,2026-05-25,NPS gestor,Gestor(a) de operação,Zelo Home,5,"Sinceramente, o check-in por GPS falha dentro dos prédios. Por favor, resolvam"
+F048,2026-05-25,NPS gestor,Coordenador(a) de enfermagem,Cuidado Certo,7,Equipe nova não consegue usar o app sozinha e também as famílias me ligam o dia todo perguntando se a técnica chegou. Isso atrapalha muito
+F049,2026-05-26,NPS família,Familiar,Lar & Saúde,2,Bom dia. Meu pai nao consegue assinar e eu nao estou em casa. Assim fica difícil
+F050,2026-05-27,Ticket de suporte,Cuidador(a),Lar & Saúde,,"Pessoal, demoro 20 min só pra registrar"
+F051,2026-05-28,NPS gestor,Diretor(a) financeiro(a),Zelo Home,5,"Sinceramente, o check-in por GPS falha dentro dos prédios e também recurso de glosa dá muito trabalho e recupera pouco"
+F052,2026-05-28,NPS família,Familiar,Lar & Saúde,7,De novo: Queria só saber se a técnica chegou e também meu pai nao consegue assinar e eu nao estou em casa
+F053,2026-05-31,Loja de apps,Cuidador(a),Farol Home Care,2,"Olha, sem internet o app perde tudo que eu escrevi e também não acho onde coloca a medicação!!"
+F054,2026-06-01,Ticket de suporte,Cuidador(a),CasaSaúde Home Care,,"Urgente: Esqueci a senha, como recupero?"
+F055,2026-06-01,NPS gestor,Faturista,Zelo Home,7,De novo: Assinatura com o dedo fica ilegível e a operadora recusa e também preciso exportar pro Excel pra conferir as contas. Assim fica difícil
+F056,2026-06-02,Loja de apps,Técnico(a) de enfermagem,Viver em Casa,3,Bom dia. Paciente tável e eu preencho tudo igual todo dia
+F057,2026-06-02,NPS gestor,Coordenador(a) de enfermagem,Mais Vida Home,6,"Pessoal, a filial nova levou 4 meses pra entrar. Já reclamei antes"
+F058,2026-06-03,Ticket de suporte,Coordenador(a) de enfermagem,Lar & Saúde,,Como gero o relatório de pendências?
+F059,2026-06-03,Ticket de suporte,Diretor(a) financeiro(a),Viver em Casa,,"Vi a demo do concorrente com IA, vocês têm algo parecido?"
+F060,2026-06-04,NPS família,Familiar,Lar & Saúde,4,Meu pai não consegue assinar e eu não estou em casa
+F061,2026-06-05,NPS família,Familiar,Saúde no Lar,3,"Olha, meu pai não consegue assinar e eu não estou em casa"
+F062,2026-06-06,NPS gestor,Coordenador(a) de enfermagem,Farol Home Care,5,Bom dia. A equipe anota no papel porque o app não funciona sem sinal. Assim fica difícil
+F063,2026-06-07,Ticket de suporte,Coordenador(a) de enfermagem,Grupo Vida Plena,,Urgente: Onde vejo as visitas sem evolução?
+F064,2026-06-09,Ticket de suporte,Gestor(a) de operação,Cuidado Certo,,"A equipe anota no papel porque o app não funciona sem sinal e também paciente ficou sem visita porque ninguém viu a falta. Por favor, resolvam"
+F065,2026-06-09,Ticket de suporte,Coordenador(a) de enfermagem,Farol Home Care,,"Pessoal, a equipe anota no papel porque o app não funciona sem sinal. Tá complicado"
+F066,2026-06-09,NPS gestor,Faturista,Cuidado Certo,0,Muitas visitas chegam sem assinatura no fechamento
+F067,2026-06-10,Ticket de suporte,Coordenador(a) de enfermagem,Home Vida,,Urgente: As famílias me ligam o dia todo perguntando se a técnica chegou. Isso atrapalha muito
+F068,2026-06-10,Ticket de suporte,Técnico(a) de enfermagem,Saúde no Lar,,"Na casa do paciente não tem sinal e o app não salva. Por favor, resolvam"
+F069,2026-06-11,Ticket de suporte,Técnico(a) de enfermagem,Viver em Casa,,"Sinceramente, como faço para ver o histórico do paciente?"
+F070,2026-06-11,Loja de apps,Técnico(a) de enfermagem,Grupo Vida Plena,2,Urgente: Na casa do paciente não tem sinal e o app não salva. Isso atrapalha muito
+F071,2026-06-11,Ticket de suporte,Gestor(a) de operação,Farol Home Care,,Paciente ficou sem visita porque ninguém viu a falta!!
+F072,2026-06-11,NPS gestor,Gestor(a) de operação,Zelo Home,7,"Bom dia. O check-in por GPS falha dentro dos prédios e também o arquivo TISS sai certo, mas as contas saem incompletas"
+F073,2026-06-12,Loja de apps,Cuidador(a),Mais Vida Home,1,Urgente: O app esquenta meu celular e fecha sozinho e também nao acho onde coloca a medicação. Isso atrapalha muito
+F074,2026-06-12,Loja de apps,Cuidador(a),Farol Home Care,1,Bom dia. Paciente estável e eu preencho tudo igual todo dia. Assim fica difícil
+F075,2026-06-13,Loja de apps,Cuidador(a),Viver em Casa,1,Fui remanejada e só soube pelo WhatsApp e também paciente acamado não consegue assinar na tela. Assim fica difícil
+F076,2026-06-13,Loja de apps,Cuidador(a),Farol Home Care,2,Fui remanejada e só soube pelo WhatsApp. Tá complicado
+F077,2026-06-14,NPS gestor,Diretor(a) financeiro(a),Zelo Home,2,Preciso exportar pro Excel pra conferir as contas. Tá complicado
+F078,2026-06-15,Ticket de suporte,Faturista,Cuidar Sempre,,O sistema deixa enviar conta sem assinatura e também assinatura com o dedo fica ilegível e a operadora recusa. Tá complicado
+F079,2026-06-17,Ticket de suporte,Diretor(a) financeiro(a),Grupo Vida Plena,,A filial nova levou 4 meses pra entrar. Assim fica difícil
+F080,2026-06-18,Ticket de suporte,Coordenador(a) de enfermagem,Acolher Home Care,,"A escala do mês funciona, a do dia não. Já reclamei antes"
+F081,2026-06-18,NPS gestor,Coordenador(a) de enfermagem,Saúde no Lar,7,"Pessoal, a diretoria quer saber quando vem a inteligência artificial. Por favor, resolvam"
+F082,2026-06-19,NPS gestor,Gestor(a) de operação,Cuidar Sempre,5,Urgente: Paciente ficou sem visita porque ninguém viu a falta e também perdemos muito dinheiro com evolução incompleta
+F083,2026-06-19,NPS família,Familiar,Lar & Saúde,6,Urgente: Fico sabendo tudo pelo WhatsApp da técnica. Assim fica difícil
+F084,2026-06-19,NPS gestor,Gestor(a) de operação,Viver em Casa,0,Urgente: Tivemos reclamação na ouvidoria por visita que não aconteceu. Isso atrapalha muito
+F085,2026-06-19,Ticket de suporte,Técnico(a) de enfermagem,Home Vida,,Urgente: O check-in fica carregando e não vai. Isso atrapalha muito
+F086,2026-06-19,NPS gestor,Coordenador(a) de enfermagem,Cuidado Certo,6,"Sinceramente, as famílias me ligam o dia todo perguntando se a técnica chegou. Isso atrapalha muito"
+F087,2026-06-20,Ticket de suporte,Gestor(a) de operação,Mais Vida Home,,"Descubro a glosa 30 dias depois, aí não dá pra corrigir e também o check-in por GPS falha dentro dos prédios"
+F088,2026-06-20,Ticket de suporte,Gestor(a) de operação,Zelo Home,,"Pessoal, não tem relatório de pendências confiável. Isso atrapalha muito"
+F089,2026-06-20,NPS gestor,Diretor(a) financeiro(a),Zelo Home,7,"Urgente: Seria ótimo ter evolução por voz. Por favor, resolvam"
+F090,2026-06-20,Loja de apps,Técnico(a) de enfermagem,CasaSaúde Home Care,5,O arquivo TISS funciona bem. Obrigada
+F091,2026-06-20,NPS gestor,Coordenador(a) de enfermagem,Cuidado Certo,6,Urgente: O sistema não mostra quem está disponível perto do paciente
+F092,2026-06-21,NPS família,Familiar,Saúde no Lar,5,Meu pai não consegue assinar e eu não estou em casa
+F093,2026-06-22,NPS gestor,Diretor(a) financeiro(a),Grupo Vida Plena,0,"Pessoal, queria saber o risco de glosa antes de fechar o mês e também a implantação demorou muito mais do que o prometido"
+F094,2026-06-22,Ticket de suporte,Faturista,CasaSaúde Home Care,,Como exporto as contas do mês?
+F095,2026-06-23,NPS gestor,Gestor(a) de operação,Lar & Saúde,5,De novo: A equipe anota no papel porque o app não funciona sem sinal e também ficamos meses rodando em planilha!!
+F096,2026-06-24,Ticket de suporte,Cuidador(a),Grupo Vida Plena,,Bom dia. O check-in fica carregando e não vai e também muito campo obrigatório que não faz sentido pro meu paciente
+F097,2026-06-25,Loja de apps,Cuidador(a),Farol Home Care,1,Urgente: Na casa do paciente não tem sinal e o app não salva. Já reclamei antes
+F098,2026-06-25,Loja de apps,Cuidador(a),Home Vida,5,Sistema estável no computador. Obrigada
+F099,2026-06-25,NPS família,Familiar,Home Vida,0,Meu pai não consegue assinar e eu não estou em casa e também queria ver a evolução do meu pai de forma simples
+F100,2026-06-26,NPS gestor,Diretor(a) financeiro(a),Home Vida,5,O check-in por GPS falha dentro dos prédios e também o sistema deixa enviar conta sem assinatura!!
+F101,2026-06-26,Ticket de suporte,Técnico(a) de enfermagem,Saúde no Lar,,A equipe de CS é atenciosa. Parabéns ao time
+F102,2026-06-26,NPS gestor,Diretor(a) financeiro(a),Grupo Vida Plena,3,A operadora glosou por horário sem comprovação
+F103,2026-06-26,NPS gestor,Gestor(a) de operação,CasaSaúde Home Care,7,O sistema deixa enviar conta sem assinatura e também a filial nova levou 4 meses pra entrar
+F104,2026-06-27,Ticket de suporte,Cuidador(a),Farol Home Care,,"De novo: Demoro 20 min só pra registrar e também tenho que voltar depois só pra pegar assinatura. Por favor, resolvam"
+F105,2026-06-27,Ticket de suporte,Coordenador(a) de enfermagem,Viver em Casa,,De novo: Onde vejo as visitas sem evolução?
+F106,2026-06-27,Ticket de suporte,Coordenador(a) de enfermagem,Acolher Home Care,,Como cadastro um paciente novo?
+F107,2026-06-29,Ticket de suporte,Coordenador(a) de enfermagem,Cuidar Sempre,,As técnicas reclamam que o app é complicado
+F108,2026-06-29,NPS gestor,Coordenador(a) de enfermagem,Acolher Home Care,9,Consigo ver o histórico do paciente fácil no desktop. Parabéns ao time
+F109,2026-06-30,Ticket de suporte,Cuidador(a),Saúde no Lar,,"Esqueci a senha, como recupero?"
+F110,2026-06-30,Ticket de suporte,Técnico(a) de enfermagem,Saúde no Lar,,"Sinceramente, esqueci a senha, como recupero?"
+F111,2026-06-30,Ticket de suporte,Gestor(a) de operação,Lar & Saúde,,Bom dia. O treinamento é um PDF enorme que ninguém lê e também o check-in por GPS falha dentro dos prédios. Assim fica difícil
+F112,2026-07-01,NPS gestor,Coordenador(a) de enfermagem,Lar & Saúde,4,"Olha, as técnicas reclamam que o app é complicado"
+F113,2026-07-02,Loja de apps,Cuidador(a),Viver em Casa,1,"Sinceramente, perdi a evolução inteira quando o sinal caiu"
+F114,2026-07-03,Ticket de suporte,Técnico(a) de enfermagem,Acolher Home Care,,Na casa do paciente nao tem sinal e o app nao salva
+F115,2026-07-03,Loja de apps,Cuidador(a),Acolher Home Care,2,"Olha, na casa do paciente não tem sinal e o app não salva"
+F116,2026-07-04,Loja de apps,Técnico(a) de enfermagem,Saúde no Lar,3,No prédio o GPS não pega e não consigo fazer check-in!!
+F117,2026-07-04,NPS família,Familiar,Farol Home Care,2,"O portal é confuso, desisti!!"
+F118,2026-07-04,Loja de apps,Técnico(a) de enfermagem,Grupo Vida Plena,2,No prédio o GPS nao pega e nao consigo fazer check-in
+F119,2026-07-05,Ticket de suporte,Cuidador(a),Mais Vida Home,,De novo: Fui remanejada e só soube pelo WhatsApp. Isso atrapalha muito
+F120,2026-07-05,NPS família,Familiar,Cuidado Certo,3,De novo: Não sabia que existia portal!!
+F121,2026-07-05,NPS gestor,Faturista,Home Vida,4,Não tem relatório de pendências confiável!!
+F122,2026-07-05,NPS gestor,Diretor(a) financeiro(a),Zelo Home,5,"Sinceramente, a implantação demorou muito mais do que o prometido!!"
+F123,2026-07-06,Loja de apps,Cuidador(a),Viver em Casa,1,Perdi a evolução inteira quando o sinal caiu!!
+F124,2026-07-06,NPS gestor,Diretor(a) financeiro(a),Cuidado Certo,6,"Sinceramente, cada técnica nova precisa de treinamento e não tem material simples!!"
+F125,2026-07-06,NPS gestor,Gestor(a) de operação,Cuidar Sempre,6,De novo: Tivemos reclamação na ouvidoria por visita que não aconteceu. Assim fica difícil
+F126,2026-07-08,Ticket de suporte,Cuidador(a),CasaSaúde Home Care,,"Troca de plantão não aparece no app e também sem internet o app perde tudo que eu escrevi. Por favor, resolvam"
+F127,2026-07-08,Ticket de suporte,Coordenador(a) de enfermagem,Saúde no Lar,,Como cadastro um paciente novo?
+F128,2026-07-09,Loja de apps,Cuidador(a),Lar & Saúde,1,"Pessoal, demoro 20 min só pra registrar"
+F129,2026-07-09,NPS gestor,Diretor(a) financeiro(a),Cuidado Certo,6,"Olha, as técnicas perdem a evolução quando cai a internet e também preciso exportar pro Excel pra conferir as contas. Tá complicado"
+F130,2026-07-09,Ticket de suporte,Coordenador(a) de enfermagem,Home Vida,,A implantação demorou muito mais do que o prometido. Isso atrapalha muito
+F131,2026-07-09,NPS família,Familiar,Grupo Vida Plena,5,De novo: Queria só saber se a técnica chegou. Já reclamei antes
+F132,2026-07-09,Ticket de suporte,Coordenador(a) de enfermagem,Viver em Casa,,"De novo: As técnicas reclamam que o app é complicado. Por favor, resolvam"
+F133,2026-07-10,NPS gestor,Coordenador(a) de enfermagem,Farol Home Care,8,De novo: Sistema estável no computador. Parabéns ao time
+F134,2026-07-11,NPS família,Familiar,Mais Vida Home,3,"Sinceramente, ninguém me avisou que não teria visita hoje!!"
+F135,2026-07-11,Loja de apps,Cuidador(a),Farol Home Care,2,Podia copiar a evolução de ontem e só mudar o que mudou. Já reclamei antes
+F136,2026-07-12,Ticket de suporte,Coordenador(a) de enfermagem,Saúde no Lar,,Como vincular o familiar ao portal?
+F137,2026-07-13,NPS gestor,Diretor(a) financeiro(a),Mais Vida Home,7,De novo: Não tem relatório de pendências confiável. Já reclamei antes
+F138,2026-07-13,Loja de apps,Técnico(a) de enfermagem,Mais Vida Home,2,"Olha, demoro 20 min só pra registrar"
+F139,2026-07-13,NPS gestor,Coordenador(a) de enfermagem,Lar & Saúde,5,"Sinceramente, a diretoria quer saber quando vem a inteligência artificial"
+F140,2026-07-13,Ticket de suporte,Gestor(a) de operação,Mais Vida Home,,"Olha, as técnicas perdem a evolução quando cai a internet!!"
+F141,2026-07-13,Loja de apps,Técnico(a) de enfermagem,Lar & Saúde,1,O check-in fica carregando e não vai. Tá complicado
+F142,2026-07-14,NPS gestor,Faturista,Lar & Saúde,6,Muitas visitas chegam sem assinatura no fechamento. Tá complicado
+F143,2026-07-14,Ticket de suporte,Coordenador(a) de enfermagem,Viver em Casa,,Equipe nova não consegue usar o app sozinha!!
+F144,2026-07-14,NPS gestor,Gestor(a) de operação,Lar & Saúde,7,De novo: Configurar as tabelas das operadoras levou semanas e também as técnicas perdem a evolução quando cai a internet
+F145,2026-07-15,NPS gestor,Coordenador(a) de enfermagem,Lar & Saúde,6,Bom dia. A filial nova levou 4 meses pra entrar e também o sistema não mostra quem está disponível perto do paciente
+F146,2026-07-16,Loja de apps,Cuidador(a),Acolher Home Care,1,Tenho que voltar depois só pra pegar assinatura. Isso atrapalha muito
+F147,2026-07-16,NPS gestor,Gestor(a) de operação,Farol Home Care,2,Preciso exportar pro Excel pra conferir as contas. Assim fica difícil
+F148,2026-07-16,Ticket de suporte,Faturista,Lar & Saúde,,A operadora glosou por horário sem comprovação. Tá complicado
+F149,2026-07-17,Ticket de suporte,Faturista,Zelo Home,,Bom dia. Como eu reabro uma evolução já enviada?
+F150,2026-07-18,NPS gestor,Coordenador(a) de enfermagem,Cuidado Certo,6,"Pessoal, as técnicas reclamam que o app é complicado"
+F151,2026-07-19,Ticket de suporte,Faturista,Zelo Home,,Como eu reabro uma evolução já enviada?
+F152,2026-07-19,Ticket de suporte,Técnico(a) de enfermagem,Acolher Home Care,,Como faço para ver o histórico do paciente?
+F153,2026-07-19,NPS gestor,Diretor(a) financeiro(a),Mais Vida Home,0,Bom dia. A glosa só aumenta e o sistema não avisa nada antes. Tá complicado
+F154,2026-07-19,Loja de apps,Técnico(a) de enfermagem,Cuidar Sempre,1,"Olha, toda hora pede senha de novo e também fui remanejada e só soube pelo WhatsApp. Já reclamei antes"
+F155,2026-07-19,NPS gestor,Gestor(a) de operação,Saúde no Lar,6,O preço subiu e não vi melhoria. Já reclamei antes
+F156,2026-07-19,NPS gestor,Coordenador(a) de enfermagem,Saúde no Lar,5,"Equipe nova não consegue usar o app sozinha e também a implantação demorou muito mais do que o prometido. Por favor, resolvam"
+F157,2026-07-19,Ticket de suporte,Coordenador(a) de enfermagem,Lar & Saúde,,"Pessoal, recebo áudio das técnicas e eu mesma digito a evolução. Assim fica difícil"
+F158,2026-07-20,NPS gestor,Faturista,CasaSaúde Home Care,2,Urgente: Recurso de glosa dá muito trabalho e recupera pouco!!
+F159,2026-07-20,Ticket de suporte,Diretor(a) financeiro(a),Grupo Vida Plena,,Preciso exportar pro Excel pra conferir as contas
+F160,2026-07-21,NPS gestor,Faturista,Grupo Vida Plena,7,Assinatura com o dedo fica ilegível e a operadora recusa!!
+F161,2026-07-21,NPS família,Familiar,Farol Home Care,7,Urgente: Queria só saber se a técnica chegou e também meu pai não consegue assinar e eu não estou em casa. Já reclamei antes
+F162,2026-07-21,Ticket de suporte,Coordenador(a) de enfermagem,Farol Home Care,,"Sinceramente, as técnicas reclamam que o app é complicado. Por favor, resolvam"
+F163,2026-07-21,NPS gestor,Gestor(a) de operação,Cuidar Sempre,6,"De novo: O arquivo TISS sai certo, mas as contas saem incompletas. Tá complicado"
+F164,2026-07-21,Ticket de suporte,Cuidador(a),Mais Vida Home,,Fui remanejada e só soube pelo WhatsApp. Isso atrapalha muito
+F165,2026-07-22,NPS gestor,Gestor(a) de operação,Grupo Vida Plena,7,Preciso exportar pro Excel pra conferir as contas. Assim fica difícil
+F166,2026-07-22,NPS família,Familiar,Cuidado Certo,2,"A técnica é ótima, a empresa não comunica nada!!"
+F167,2026-07-22,Loja de apps,Cuidador(a),Acolher Home Care,2,Caiu a sessão e perdi o que tinha digitado
+F168,2026-07-23,Loja de apps,Técnico(a) de enfermagem,Grupo Vida Plena,2,"Pessoal, troca de plantão não aparece no app"
+F169,2026-07-23,Loja de apps,Técnico(a) de enfermagem,Acolher Home Care,2,"Olha, paciente acamado não consegue assinar na tela e também sem internet o app perde tudo que eu escrevi. Já reclamei antes"
+F170,2026-07-23,NPS gestor,Coordenador(a) de enfermagem,Lar & Saúde,4,A diretoria quer saber quando vem a inteligência artificial. Isso atrapalha muito
+F171,2026-07-23,NPS gestor,Coordenador(a) de enfermagem,Lar & Saúde,5,"Olha, refaço a escala na planilha todo dia"
+F172,2026-07-23,Loja de apps,Cuidador(a),Cuidar Sempre,2,"Urgente: Muito campo obrigatório que não faz sentido pro meu paciente. Por favor, resolvam"
+F173,2026-07-23,NPS gestor,Coordenador(a) de enfermagem,Saúde no Lar,3,Bom dia. As técnicas reclamam que o app é complicado
+F174,2026-07-24,Ticket de suporte,Gestor(a) de operação,Viver em Casa,,"Pessoal, a equipe anota no papel porque o app não funciona sem sinal. Por favor, resolvam"
+F175,2026-07-24,Ticket de suporte,Coordenador(a) de enfermagem,Cuidar Sempre,,"Sinceramente, o check-in por GPS falha dentro dos prédios"
+F176,2026-07-25,NPS gestor,Gestor(a) de operação,Acolher Home Care,6,Paciente ficou sem visita porque ninguém viu a falta
+F177,2026-07-25,Ticket de suporte,Faturista,Farol Home Care,,Bom dia. Como exporto as contas do mês?
+F178,2026-07-25,NPS gestor,Coordenador(a) de enfermagem,Grupo Vida Plena,3,As famílias me ligam o dia todo perguntando se a técnica chegou e também equipe nova não consegue usar o app sozinha. Já reclamei antes
+F179,2026-07-25,NPS gestor,Coordenador(a) de enfermagem,Viver em Casa,6,De novo: As técnicas reclamam que o app é complicado. Isso atrapalha muito
+F180,2026-07-26,NPS gestor,Coordenador(a) de enfermagem,Lar & Saúde,5,Equipe nova não consegue usar o app sozinha e também demoro 40 min pra cobrir cada falta. Isso atrapalha muito
+F181,2026-07-26,NPS gestor,Diretor(a) financeiro(a),Viver em Casa,9,Bom dia. O arquivo TISS funciona bem. Parabéns ao time
+F182,2026-07-27,Ticket de suporte,Coordenador(a) de enfermagem,Cuidar Sempre,,As técnicas perdem a evolução quando cai a internet. Tá complicado
+F183,2026-07-27,Loja de apps,Cuidador(a),Cuidar Sempre,2,Urgente: Família nunca está na hora pra assinar e também troca de plantão não aparece no app
+F184,2026-07-27,Loja de apps,Técnico(a) de enfermagem,Cuidado Certo,1,"Urgente: No prédio o GPS não pega e não consigo fazer check-in. Por favor, resolvam"
+F185,2026-07-28,Ticket de suporte,Diretor(a) financeiro(a),Cuidar Sempre,,"Olha, queria saber o risco de glosa antes de fechar o mês. Já reclamei antes"
+F186,2026-07-29,Loja de apps,Cuidador(a),Farol Home Care,2,Urgente: O app esquenta meu celular e fecha sozinho e também fui remanejada e só soube pelo WhatsApp. Já reclamei antes
+F187,2026-07-29,Loja de apps,Técnico(a) de enfermagem,Acolher Home Care,4,Bom dia. Sistema estável no computador. Parabéns ao time
+F188,2026-07-30,NPS gestor,Gestor(a) de operação,Viver em Casa,8,De novo: O suporte me atendeu rápido
+F189,2026-07-30,NPS gestor,Diretor(a) financeiro(a),Saúde no Lar,4,Urgente: A glosa só aumenta e o sistema não avisa nada antes
+F190,2026-07-30,Ticket de suporte,Diretor(a) financeiro(a),Home Vida,,"Olha, a equipe anota no papel porque o app não funciona sem sinal. Por favor, resolvam"
+F191,2026-07-31,Loja de apps,Técnico(a) de enfermagem,Acolher Home Care,3,"De novo: São muitas telas pra preencher, demora mais que o atendimento!!"
+F192,2026-07-31,Ticket de suporte,Faturista,Farol Home Care,,Como exporto as contas do mês?
+F193,2026-07-31,Ticket de suporte,Diretor(a) financeiro(a),Zelo Home,,"Olha, o arquivo TISS sai certo, mas as contas saem incompletas. Por favor, resolvam"
+F194,2026-07-31,Ticket de suporte,Coordenador(a) de enfermagem,Farol Home Care,,Recebo áudio das técnicas e eu mesma digito a evolução
+F195,2026-07-31,Ticket de suporte,Gestor(a) de operação,Lar & Saúde,,A filial nova levou 4 meses pra entrar. Já reclamei antes
+F196,2026-07-31,NPS gestor,Diretor(a) financeiro(a),Zelo Home,7,O check-in por GPS falha dentro dos prédios. Assim fica difícil
+F197,2026-07-31,Ticket de suporte,Coordenador(a) de enfermagem,Grupo Vida Plena,,Como cadastro um paciente novo?
+F198,2026-08-01,NPS família,Familiar,Grupo Vida Plena,0,"Pessoal, meu pai nao consegue assinar e eu nao estou em casa"
+F199,2026-08-01,Ticket de suporte,Técnico(a) de enfermagem,Grupo Vida Plena,,Bom dia. Como faço para ver o histórico do paciente?
+F200,2026-08-01,Ticket de suporte,Técnico(a) de enfermagem,Cuidado Certo,,"Pessoal, muito campo obrigatório que não faz sentido pro meu paciente"
+F201,2026-08-01,NPS gestor,Faturista,Cuidado Certo,6,O sistema deixa enviar conta sem assinatura e também assinatura com o dedo fica ilegível e a operadora recusa. Isso atrapalha muito
+F202,2026-08-01,Ticket de suporte,Faturista,Viver em Casa,,"Sinceramente, como exporto as contas do mês?"
+F203,2026-08-02,Ticket de suporte,Faturista,Mais Vida Home,,De novo: O sistema deixa enviar conta sem assinatura. Isso atrapalha muito
+F204,2026-08-02,NPS gestor,Diretor(a) financeiro(a),Acolher Home Care,0,Tivemos reclamação na ouvidoria por visita que não aconteceu
+F205,2026-08-03,NPS gestor,Coordenador(a) de enfermagem,Acolher Home Care,0,"Sinceramente, as famílias me ligam o dia todo perguntando se a técnica chegou e também as técnicas perdem a evolução quando cai a internet"
+F206,2026-08-03,NPS gestor,Coordenador(a) de enfermagem,Home Vida,3,"Olha, equipe nova não consegue usar o app sozinha. Isso atrapalha muito"
+F207,2026-08-03,NPS gestor,Diretor(a) financeiro(a),Zelo Home,0,"Descubro a glosa 30 dias depois, aí não dá pra corrigir"
+F208,2026-08-04,NPS família,Familiar,Grupo Vida Plena,5,"Bom dia. A técnica é ótima, a empresa não comunica nada"
+F209,2026-08-04,NPS gestor,Gestor(a) de operação,Zelo Home,6,Urgente: As técnicas perdem a evolução quando cai a internet
+F210,2026-08-04,Loja de apps,Técnico(a) de enfermagem,Farol Home Care,2,Fui remanejada e só soube pelo WhatsApp
+F211,2026-08-04,NPS gestor,Gestor(a) de operação,Viver em Casa,6,Urgente: A equipe anota no papel porque o app não funciona sem sinal!!
+F212,2026-08-04,NPS gestor,Coordenador(a) de enfermagem,Zelo Home,7,"Olha, equipe nova não consegue usar o app sozinha e também a equipe anota no papel porque o app não funciona sem sinal"
+F213,2026-08-05,Ticket de suporte,Cuidador(a),Zelo Home,,"De novo: Letra muito pequena, preciso dar zoom e também troca de plantão não aparece no app. Assim fica difícil"
+F214,2026-08-05,NPS gestor,Coordenador(a) de enfermagem,Zelo Home,6,"Pessoal, as famílias me ligam o dia todo perguntando se a técnica chegou"
+F215,2026-08-05,NPS gestor,Faturista,Cuidado Certo,0,"Olha, perdemos muito dinheiro com evolução incompleta. Já reclamei antes"
+F216,2026-08-05,NPS gestor,Diretor(a) financeiro(a),Saúde no Lar,6,"Olha, o arquivo TISS sai certo, mas as contas saem incompletas. Já reclamei antes"
+F217,2026-08-06,Loja de apps,Cuidador(a),Acolher Home Care,2,De novo: O app esquenta meu celular e fecha sozinho
+F218,2026-08-06,Loja de apps,Cuidador(a),Cuidar Sempre,3,Não acho onde coloca a medicação
+F219,2026-08-06,Ticket de suporte,Diretor(a) financeiro(a),Farol Home Care,,Urgente: O sistema deixa enviar conta sem assinatura
+F220,2026-08-07,Ticket de suporte,Cuidador(a),Farol Home Care,,Fui remanejada e só soube pelo WhatsApp
+F221,2026-08-08,Ticket de suporte,Faturista,Grupo Vida Plena,,Muitas visitas chegam sem assinatura no fechamento
+F222,2026-08-08,NPS gestor,Diretor(a) financeiro(a),Lar & Saúde,7,Perdemos muito dinheiro com evolução incompleta
+F223,2026-08-08,NPS gestor,Gestor(a) de operação,Saúde no Lar,0,"Pessoal, descubro a glosa 30 dias depois, aí não dá pra corrigir. Já reclamei antes"
+F224,2026-08-08,Ticket de suporte,Cuidador(a),Saúde no Lar,,"Olha, esqueci a senha, como recupero?"
+F225,2026-08-09,NPS gestor,Faturista,Zelo Home,3,"Assinatura com o dedo fica ilegível e a operadora recusa e também o arquivo TISS sai certo, mas as contas saem incompletas. Assim fica difícil"
+F226,2026-08-09,Ticket de suporte,Cuidador(a),Viver em Casa,,Bom dia. Troca de plantão nao aparece no app
+F227,2026-08-09,NPS gestor,Diretor(a) financeiro(a),CasaSaúde Home Care,5,Cada técnica nova precisa de treinamento e não tem material simples. Tá complicado
+F228,2026-08-10,Ticket de suporte,Faturista,Farol Home Care,,"Olha, como eu reabro uma evolução já enviada?"
+F229,2026-08-11,NPS gestor,Gestor(a) de operação,Zelo Home,2,"Olha, paciente ficou sem visita porque ninguém viu a falta. Isso atrapalha muito"
+F230,2026-08-11,Ticket de suporte,Gestor(a) de operação,Lar & Saúde,,"Olha, o arquivo TISS sai certo, mas as contas saem incompletas. Tá complicado"
+F231,2026-08-11,NPS gestor,Coordenador(a) de enfermagem,Lar & Saúde,6,"Recebo áudio das técnicas e eu mesma digito a evolução. Por favor, resolvam"
+F232,2026-08-12,Loja de apps,Cuidador(a),Lar & Saúde,2,"Pessoal, perdi a evolução inteira quando o sinal caiu. Isso atrapalha muito"
+F233,2026-08-12,NPS gestor,Gestor(a) de operação,Mais Vida Home,4,O sistema deixa enviar conta sem assinatura
+F234,2026-08-12,Ticket de suporte,Diretor(a) financeiro(a),Acolher Home Care,,Bom dia. Tivemos reclamação na ouvidoria por visita que não aconteceu. Tá complicado
+F235,2026-08-12,NPS família,Familiar,Acolher Home Care,3,"Olha, não sabia que existia portal!!"
+F236,2026-08-12,NPS gestor,Coordenador(a) de enfermagem,Farol Home Care,6,Quando alguém falta eu resolvo tudo no WhatsApp!!
+F237,2026-08-12,NPS gestor,Gestor(a) de operação,CasaSaúde Home Care,2,Urgente: As técnicas perdem a evolução quando cai a internet e também paciente ficou sem visita porque ninguém viu a falta
+F238,2026-08-13,NPS gestor,Coordenador(a) de enfermagem,Cuidado Certo,4,"Demoro 40 min pra cobrir cada falta e também ficamos meses rodando em planilha. Por favor, resolvam"
+F239,2026-08-13,NPS gestor,Faturista,CasaSaúde Home Care,6,"De novo: A glosa só aumenta e o sistema não avisa nada antes e também muitas visitas chegam sem assinatura no fechamento. Por favor, resolvam"
+F240,2026-08-14,Loja de apps,Técnico(a) de enfermagem,Home Vida,3,"São muitas telas pra preencher, demora mais que o atendimento e também na casa do paciente não tem sinal e o app não salva. Por favor, resolvam"
+F241,2026-08-14,NPS família,Familiar,Lar & Saúde,5,"Sinceramente, queria só saber se a técnica chegou"
+F242,2026-08-14,Loja de apps,Cuidador(a),Mais Vida Home,1,"Sinceramente, paciente estável e eu preencho tudo igual todo dia. Tá complicado"
+F243,2026-08-15,Ticket de suporte,Técnico(a) de enfermagem,Saúde no Lar,,A evolução tem tela demais e também app muito pesado pro meu celular. Tá complicado
+F244,2026-08-15,Ticket de suporte,Diretor(a) financeiro(a),Acolher Home Care,,"Sinceramente, recurso de glosa dá muito trabalho e recupera pouco!!"
+F245,2026-08-15,Ticket de suporte,Diretor(a) financeiro(a),Mais Vida Home,,"Sinceramente, tivemos reclamação na ouvidoria por visita que não aconteceu"
+F246,2026-08-15,Ticket de suporte,Coordenador(a) de enfermagem,Farol Home Care,,As técnicas reclamam que o app é complicado. Tá complicado
+F247,2026-08-15,Loja de apps,Técnico(a) de enfermagem,Saúde no Lar,1,Bom dia. Troca de plantão não aparece no app. Assim fica difícil
+F248,2026-08-16,NPS gestor,Faturista,Saúde no Lar,7,"Pessoal, muitas visitas chegam sem assinatura no fechamento. Isso atrapalha muito"
+F249,2026-08-17,NPS gestor,Faturista,Viver em Casa,7,Bom dia. Assinatura com o dedo fica ilegível e a operadora recusa
+F250,2026-08-17,Ticket de suporte,Faturista,Cuidado Certo,,Como eu reabro uma evolução já enviada?
+F251,2026-08-17,Ticket de suporte,Coordenador(a) de enfermagem,Zelo Home,,Bom dia. Como redefinir a senha de uma técnica?
+F252,2026-08-17,NPS gestor,Faturista,Grupo Vida Plena,2,Assinatura com o dedo fica ilegível e a operadora recusa
+F253,2026-08-18,Ticket de suporte,Diretor(a) financeiro(a),Zelo Home,,O treinamento é um PDF enorme que ninguém lê
+F254,2026-08-18,NPS gestor,Diretor(a) financeiro(a),Farol Home Care,6,O sistema deixa enviar conta sem assinatura e também tivemos reclamação na ouvidoria por visita que não aconteceu. Tá complicado
+F255,2026-08-18,Ticket de suporte,Cuidador(a),Cuidar Sempre,,Urgente: Perdi a evolução inteira quando o sinal caiu. Tá complicado
+F256,2026-08-19,NPS gestor,Diretor(a) financeiro(a),Acolher Home Care,7,"Sinceramente, o sistema deixa enviar conta sem assinatura"
+F257,2026-08-20,NPS gestor,Diretor(a) financeiro(a),CasaSaúde Home Care,2,As técnicas perdem a evolução quando cai a internet e também paciente ficou sem visita porque ninguém viu a falta. Isso atrapalha muito
+F258,2026-08-21,Ticket de suporte,Coordenador(a) de enfermagem,Lar & Saúde,,De novo: Como gero o relatório de pendências?
+F259,2026-08-21,NPS gestor,Gestor(a) de operação,Acolher Home Care,5,Urgente: Perdemos muito dinheiro com evolução incompleta e também a implantação demorou muito mais do que o prometido
+F260,2026-08-21,Ticket de suporte,Cuidador(a),Lar & Saúde,,"Pessoal, no prédio o GPS não pega e não consigo fazer check-in!!"
+F261,2026-08-22,Ticket de suporte,Cuidador(a),CasaSaúde Home Care,,Caiu a sessão e perdi o que tinha digitado
+F262,2026-08-22,NPS gestor,Coordenador(a) de enfermagem,Viver em Casa,0,Urgente: Demoro 40 min pra cobrir cada falta. Assim fica difícil
+F263,2026-08-22,NPS gestor,Coordenador(a) de enfermagem,Saúde no Lar,6,Recebo áudio das técnicas e eu mesma digito a evolução. Assim fica difícil
+F264,2026-08-23,NPS família,Familiar,Cuidado Certo,3,Meu pai não consegue assinar e eu não estou em casa e também ninguém me avisou que não teria visita hoje. Assim fica difícil
+F265,2026-08-23,NPS gestor,Gestor(a) de operação,Mais Vida Home,3,"Sinceramente, seria ótimo ter evolução por voz. Já reclamei antes"
+F266,2026-08-23,Loja de apps,Técnico(a) de enfermagem,Home Vida,3,"Pessoal, na casa do paciente não tem sinal e o app não salva. Assim fica difícil"
+F267,2026-08-23,Ticket de suporte,Coordenador(a) de enfermagem,Home Vida,,"Urgente: Demoro 40 min pra cobrir cada falta. Por favor, resolvam"
+F268,2026-08-23,Ticket de suporte,Coordenador(a) de enfermagem,Zelo Home,,"Bom dia. As famílias me ligam o dia todo perguntando se a técnica chegou. Por favor, resolvam"
+F269,2026-08-24,Ticket de suporte,Coordenador(a) de enfermagem,Farol Home Care,,"Pessoal, como gero o relatório de pendências?"
+F270,2026-08-24,Loja de apps,Técnico(a) de enfermagem,Cuidado Certo,5,De novo: Consigo ver o histórico do paciente fácil no desktop
+F271,2026-08-24,NPS gestor,Diretor(a) financeiro(a),Grupo Vida Plena,7,Urgente: Queria saber o risco de glosa antes de fechar o mês
+F272,2026-08-24,NPS gestor,Faturista,Grupo Vida Plena,5,Assinatura com o dedo fica ilegível e a operadora recusa. Já reclamei antes
+F273,2026-08-25,NPS gestor,Coordenador(a) de enfermagem,Grupo Vida Plena,9,Bom dia. O arquivo TISS funciona bem
+F274,2026-08-25,NPS família,Familiar,Zelo Home,7,"Pessoal, queria só saber se a técnica chegou"
+F275,2026-08-25,Ticket de suporte,Coordenador(a) de enfermagem,Zelo Home,,Urgente: Recebo áudio das técnicas e eu mesma digito a evolução. Isso atrapalha muito
+F276,2026-08-25,Ticket de suporte,Faturista,Viver em Casa,,Como eu reabro uma evolução já enviada?
+F277,2026-08-26,NPS gestor,Coordenador(a) de enfermagem,Acolher Home Care,6,"Olha, as famílias me ligam o dia todo perguntando se a técnica chegou"
+F278,2026-08-26,NPS gestor,Diretor(a) financeiro(a),Acolher Home Care,7,"Sinceramente, recurso de glosa dá muito trabalho e recupera pouco. Isso atrapalha muito"
+F279,2026-08-26,Ticket de suporte,Diretor(a) financeiro(a),Lar & Saúde,,"Pessoal, o preço subiu e não vi melhoria"
+F280,2026-08-26,Loja de apps,Cuidador(a),Farol Home Care,2,"Pessoal, tenho que voltar depois só pra pegar assinatura e também caiu a sessão e perdi o que tinha digitado. Tá complicado"
+F281,2026-08-27,Loja de apps,Cuidador(a),Mais Vida Home,1,"Sinceramente, não funciona offline, tenho que anotar no papel!!"
+F282,2026-08-27,NPS gestor,Diretor(a) financeiro(a),Zelo Home,0,"Pessoal, a diretoria quer saber quando vem a inteligência artificial"
+F283,2026-08-27,NPS família,Familiar,CasaSaúde Home Care,3,Pedem pra eu assinar a semana toda de uma vez. Assim fica difícil
+F284,2026-08-27,NPS gestor,Faturista,Cuidado Certo,2,Muitas visitas chegam sem assinatura no fechamento e também não tem relatório de pendências confiável. Tá complicado
+F285,2026-08-27,Ticket de suporte,Técnico(a) de enfermagem,Cuidado Certo,,"Esqueci a senha, como recupero?"
+F286,2026-08-28,Ticket de suporte,Gestor(a) de operação,Viver em Casa,,"Seria ótimo ter evolução por voz. Por favor, resolvam"
+F287,2026-08-28,Ticket de suporte,Coordenador(a) de enfermagem,Grupo Vida Plena,,"Sinceramente, as famílias me ligam o dia todo perguntando se a técnica chegou. Isso atrapalha muito"
+F288,2026-08-28,Ticket de suporte,Faturista,Viver em Casa,,Muitas visitas chegam sem assinatura no fechamento e também recurso de glosa dá muito trabalho e recupera pouco!!
+F289,2026-08-28,NPS gestor,Coordenador(a) de enfermagem,Home Vida,6,Bom dia. A equipe anota no papel porque o app não funciona sem sinal
+F290,2026-08-28,NPS gestor,Coordenador(a) de enfermagem,Saúde no Lar,3,Urgente: Recebo áudio das técnicas e eu mesma digito a evolução e também quando alguém falta eu resolvo tudo no WhatsApp
+F291,2026-08-28,NPS gestor,Faturista,Saúde no Lar,6,Muitas visitas chegam sem assinatura no fechamento!!
+F292,2026-08-29,Ticket de suporte,Coordenador(a) de enfermagem,Viver em Casa,,"Pessoal, as técnicas reclamam que o app é complicado"
+F293,2026-08-29,Ticket de suporte,Coordenador(a) de enfermagem,Cuidado Certo,,A diretoria quer saber quando vem a inteligência artificial. Isso atrapalha muito
+F294,2026-08-29,Loja de apps,Técnico(a) de enfermagem,Grupo Vida Plena,3,Urgente: A tela de assinatura trava
+F295,2026-08-29,Ticket de suporte,Gestor(a) de operação,Zelo Home,,A diretoria quer saber quando vem a inteligência artificial
+F296,2026-08-30,NPS gestor,Coordenador(a) de enfermagem,Acolher Home Care,5,"Bom dia. As técnicas reclamam que o app é complicado. Por favor, resolvam"
+F297,2026-08-30,NPS gestor,Diretor(a) financeiro(a),Mais Vida Home,2,Recurso de glosa dá muito trabalho e recupera pouco
+F298,2026-08-30,NPS gestor,Faturista,Viver em Casa,7,Urgente: Preciso exportar pro Excel pra conferir as contas e também muitas visitas chegam sem assinatura no fechamento
+F299,2026-08-30,Ticket de suporte,Coordenador(a) de enfermagem,Acolher Home Care,,"Olha, as famílias me ligam o dia todo perguntando se a técnica chegou. Isso atrapalha muito"
+F300,2026-08-30,NPS gestor,Coordenador(a) de enfermagem,Cuidar Sempre,7,De novo: Recebo áudio das técnicas e eu mesma digito a evolução e também as famílias me ligam o dia todo perguntando se a técnica chegou. Tá complicado

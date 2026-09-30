@@ -15,7 +15,7 @@ Instruções para agentes de IA (OpenCode, Claude Code, etc.) que atuam neste re
 | Caminho | Propósito |
 |---|---|
 | `dados/` | Dados gerados em exercícios e atividades da oficina |
-| `docs-do-caso/` | Casos de uso, anotações e documentação da oficina |
+| `docs-do-caso/` | Caso **Lume Care** (SaaS de home care, fictício): contexto em `sobre/`, dados brutos em `dados/`, 14 skills de produto em `skills/`. Tem **próprio `AGENTS.md`** — ler antes de trabalhar no caso |
 | `OpenClaw.app/` | **Binário macOS pré-construído** (OpenClaw). Somente leitura: nunca modificar, compilar nem versionar |
 | `opencode.json` | Configuração do OpenCode (provider Centopeia / Qwen-27B) |
 | `.env` | **Segredos locais** (ex.: `Centopeia_key`) |

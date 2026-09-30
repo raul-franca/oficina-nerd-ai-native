@@ -1,0 +1,7 @@
+﻿motivo_glosa,participacao_no_total_pct,onde_nasce_o_erro,exemplo_real_anonimizado
+Evolução clínica incompleta,38,Campo (visita),Campos de sinais vitais e medicação em branco
+Falta de assinatura do paciente ou responsável,22,Campo (visita),Paciente sem condição de assinar e familiar ausente
+Horário da visita sem comprovação (sem check-in/out),17,Campo (visita),Check-in feito horas depois ou não feito
+Autorização da operadora vencida,11,Administrativo,Guia de autorização expirada antes da visita
+Código de procedimento ou tabela incorreta,7,Administrativo,Código TISS antigo após mudança de tabela
+Outros,5,Diversos,"Duplicidade, erro de cadastro do paciente"

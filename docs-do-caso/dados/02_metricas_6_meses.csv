@@ -1,0 +1,7 @@
+﻿mes,clientes_inicio_mes,clientes_cancelados,clientes_novos,clientes_fim_mes,churn_logo_mensal_pct,mrr_reais,visitas_realizadas,visitas_com_checkin_app_pct,evolucoes_completas_pct,faturamento_clientes_operadoras_milhoes_reais,taxa_glosa_clientes_pct,valor_glosado_estimado_milhoes_reais,visitas_descobertas_pct,nps_gestores,nps_familias,familias_usando_portal_pct,tickets_suporte,tickets_duvida_como_faco_pct,csat_suporte_pct,tempo_medio_implantacao_dias,features_entregues_no_mes
+2026-03,186,3,1,184,1.8,1241000,191200,58,71,41.8,8.2,3.43,5.1,32,18,11,1850,36,82,81,4
+2026-04,184,4,2,182,2.1,1232000,188900,57,69,42.1,8.9,3.75,5.6,28,15,10,2120,37,79,85,5
+2026-05,182,4,1,179,2.4,1219000,193400,55,67,42.6,9.6,4.09,6.0,24,14,10,2380,38,76,88,6
+2026-06,179,5,2,176,2.9,1204000,190100,54,65,42.3,10.1,4.27,6.4,19,12,9,2610,39,74,90,5
+2026-07,176,6,3,173,3.2,1188000,192700,53,64,42.9,10.7,4.59,6.8,15,11,9,2840,40,71,92,6
+2026-08,173,6,3,170,3.4,1169000,191800,52,63,43.1,11.0,4.74,7.0,12,10,9,2960,40,70,94,4
