@@ -1,4 +1,5 @@
 {
+  "model": "centopeia/Qwen-27B-latest",
   "provider": {
     "centopeia": {
       "npm": "@ai-sdk/openai-compatible",
